@@ -26,3 +26,5 @@ docker run -d --name myphp --link some-mysql:some-mysql -p 8081:80 -e PMA_HOST=s
 ![web brouser](/ScreenShots/9_web.png)
 Удалил созданные контейнеры:
 ![remove](/ScreenShots/10_rm.png)
+
+Работу выполнил Олег Нечибыло
